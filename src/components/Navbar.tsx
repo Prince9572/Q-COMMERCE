@@ -1,4 +1,6 @@
-import { ArrowUpRightIcon, BikeIcon, ChevronDown, ChevronDownIcon, LogOut, LogOutIcon, MapPinIcon, MenuIcon, PackageIcon, SearchIcon, ShieldIcon, ShoppingCartIcon, UserIcon, XIcon } from "lucide-react";
+//import { ArrowUpRightIcon, BikeIcon, ChevronDown, ChevronDownIcon, ChevronsDownIcon, LogOut, LogOutIcon, MapPinIcon, MenuIcon, PackageIcon, SearchIcon, ShieldIcon, ShoppingCartIcon, UserIcon, XIcon } from "lucide-react";
+// Removed ChevronDown, ChevronsDownIcon, and LogOut
+import { ArrowUpRightIcon, BikeIcon, ChevronDownIcon, LogOutIcon, MapPinIcon, MenuIcon, PackageIcon, SearchIcon, ShieldIcon, ShoppingCartIcon, UserIcon, XIcon } from "lucide-react";
 import React,{ useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 
